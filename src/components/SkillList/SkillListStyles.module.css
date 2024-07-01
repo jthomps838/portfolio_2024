@@ -1,0 +1,5 @@
+.light, .dark {
+  color: var(--icon-color);
+  width: 30px;
+  height: 30px;
+}
