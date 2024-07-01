@@ -6,6 +6,8 @@ import Projects from "./Projects";
 import ProjectCard from "./ProjectCard";
 import Skills from "./Skills";
 import SkillList from "./SkillList";
+import CertificationCard from "./CertificationCard";
+import Certifications from "./Certifications";
 
 export {
   ThemeProvider,
@@ -16,4 +18,6 @@ export {
   ProjectCard,
   Skills,
   SkillList,
+  CertificationCard,
+  Certifications,
 };

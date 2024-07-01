@@ -50,8 +50,9 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          "Building bridges between pixels and databases, crafting seamless
-          digital experiences from frontend finesse to backend brilliance."
+          &ldquo;Building bridges between pixels and databases, crafting
+          seamless digital experiences from frontend finesse to backend
+          brilliance.&ldquo;
         </p>
         <a href={CV} download>
           <button className='hover'>Resume</button>
